@@ -1,0 +1,31 @@
+{
+  "model": "M2_cascaded_HOG_ridge",
+  "img_size": 128,
+  "patch_size": 32,
+  "n_stages": 3,
+  "alpha_stage": 50.0,
+  "stages": [
+    {
+      "stage": 0,
+      "val_NME_mean": 0.05222820553077188,
+      "val_px_err_mean": 4.991266677029222
+    },
+    {
+      "stage": 1,
+      "val_NME_mean": 0.04203535365660451,
+      "val_px_err_mean": 4.004654205298633
+    },
+    {
+      "stage": 2,
+      "val_NME_mean": 0.04011572260441265,
+      "val_px_err_mean": 3.8172843479520124
+    },
+    {
+      "stage": 3,
+      "val_NME_mean": 0.03948981109083691,
+      "val_px_err_mean": 3.7553089002596547
+    }
+  ],
+  "final_val_NME_mean": 0.03948981109083691,
+  "final_val_px_err_mean": 3.7553089002596547
+}

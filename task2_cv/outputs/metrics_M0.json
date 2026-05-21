@@ -1,0 +1,8 @@
+{
+  "model": "M0_mean_shape",
+  "val_mean_euclid_px_mean": 12.24293830079577,
+  "val_mean_euclid_px_median": 11.080289785346007,
+  "val_NME_mean": 0.12743330126835534,
+  "val_NME_median": 0.11273314615266232,
+  "val_IOD_mean_px": 97.09466995458196
+}
